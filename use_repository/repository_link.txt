@@ -1,0 +1,4 @@
+https://github.com/multiformats/js-multiaddr.git
+https://github.com/lecaobaophuc0912/nativescript-mpchart.git
+https://github.com/veliovgroup/Client-Storage.git
+https://github.com/aliyun/aliyun-openapi-nodejs-sdk.git
